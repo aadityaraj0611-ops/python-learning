@@ -1,0 +1,11 @@
+Name,Age,City,Salary,Department
+Aditya,19,Pune,45000,Engineering
+Rahul,21,Mumbai,55000,Marketing
+Priya,20,Delhi,60000,Engineering
+Aman,,Pune,40000,Sales
+Sneha,22,,65000,Marketing
+Rahul,21,Mumbai,55000,Marketing
+Karan,23,Bangalore,70000,Engineering
+Riya,20,Delhi,,Sales
+Arjun,24,Chennai,75000,Engineering
+Neha,21,Mumbai,50000,

@@ -1,0 +1,10 @@
+========== CSV DATA CLEANING REPORT ==========
+
+Original records: 10
+Final records: 9
+Original missing values: 4
+Duplicate records removed: 1
+Missing values filled: 4
+Records removed: 1
+
+Cleaning completed successfully.
