@@ -1,0 +1,21 @@
+{
+    "recipes": [
+        {
+            "name": "Grilled Paneer Sandwich",
+            "ingredients": [
+                "Bread",
+                "Paneer",
+                "Cheese",
+                "Butter"
+            ],
+            "cooking_time": 20,
+            "category": "Lunch",
+            "instructions": "Grill bread with paneer, chesse and butter until crispy."
+        }
+    ],
+    "meal_plan": {
+        "Monday": {
+            "Lunch": "Grilled Paneer Sandwich"
+        }
+    }
+}
